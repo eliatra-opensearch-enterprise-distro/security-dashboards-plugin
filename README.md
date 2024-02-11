@@ -1,54 +1,21 @@
-[![Unit tests](https://github.com/opensearch-project/security-dashboards-plugin/workflows/Unit%20Tests/badge.svg?branch=main)](https://github.com/opensearch-project/security-dashboards-plugin/actions)[![Integration tests](https://github.com/opensearch-project/security-dashboards-plugin/workflows/Integration%20Tests/badge.svg?branch=main)](https://github.com/opensearch-project/security-dashboards-plugin/actions)[![codecov](https://codecov.io/gh/opensearch-project/security-dashboards-plugin/branch/main/graphs/badge.svg)](https://github.com/opensearch-project/security-dashboards-plugin)
+# Eliatra OpenSearch Enterprise Distro (EOED) - Long Term Support for OpenSearch
 
-<img src="https://opensearch.org/assets/brand/SVG/Logo/opensearch_logo_default.svg" height="64px"/>
+This repository is part of the Eliatra OpenSearch Enterprise Distro (EOED).
 
-# OpenSearch Dashboards Security Plugin
+## Questions?
 
-This plugin for OpenSearch Dashboards adds a configuration management UI for the OpenSearch Security features, as well as authentication, session management and multi-tenancy support to your secured cluster.
-
-- [Features](#features)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [Getting Help](#getting-help)
-- [Code of Conduct](#code-of-conduct)
-- [Security](#security)
-- [License](#license)
-- [Copyright](#copyright)
-
-## Features
-
-* OpenSearch Dashboards authentication for OpenSearch
-* OpenSearch Dashboards session management
-* OpenSearch Security configuration UI
-* Multi-tenancy support for OpenSearch Dashboards
-* OpenSearch audit logging configuration UI
-
-## Installation
-
-The OpenSearch Dashboards Security Plugin comes bundled by default as part of the OpenSearch Dashboards distribution. Please refer to the [installation guide](https://opensearch.org/docs/latest/dashboards/install/index/) and  [technical documentation](https://opensearch.org/docs/latest/security-plugin/index/) for detailed information on installing and configuring the OpenSearch Security Plugin.
-
-## Contributing
-
-See [developer guide](DEVELOPER_GUIDE.md) and [how to contribute to this project](CONTRIBUTING.md).
-
-## Getting Help
-
-If you find a bug, or have a feature request, please don't hesitate to open an issue in this repository.
-
-For more information, see [project website](https://opensearch.org/) and [documentation](https://opensearch.org/docs/latest). If you need help and are unsure where to open an issue, try [forums](https://discuss.opendistrocommunity.dev/).
-
-## Code of Conduct
-
-This project has adopted the [Amazon Open Source Code of Conduct](CODE_OF_CONDUCT.md). For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq), or contact [opensource-codeofconduct@amazon.com](mailto:opensource-codeofconduct@amazon.com) with any additional questions or comments.
-
-## Security
-
-If you discover a potential security issue in this project we ask that you notify AWS/Amazon Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/). Please do **not** create a public GitHub issue.
+Please refer to https://eliatra.com/opensearch-enterprise-distro or ask your questions in our [Forum](https://forum.eliatra.com).
 
 ## License
 
-This code is licensed under the Apache 2.0 License. 
+This project is licensed under a [commercial License](LICENSE.txt).
 
 ## Copyright
 
-Copyright OpenSearch Contributors. See [NOTICE](NOTICE.txt) for details.
+Copyright Eliatra. See [NOTICE](NOTICE.txt) for details.
+
+## Trademark
+
+OpenSearch is a registered trademark of Amazon Web Services.
+
+OpenSearch includes certain Apache-licensed Elasticsearch code from Elasticsearch B.V. and other source code. Elasticsearch B.V. is not the source of that other source code. ELASTICSEARCH is a registered trademark of Elasticsearch B.V.
